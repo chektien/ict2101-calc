@@ -1,2 +1,5 @@
 language: java
 install: ant
+
+notifications:
+    slack: sit-chek:ZmHblJMPtVfSCmpK7kAemrDs
